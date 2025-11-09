@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --scr-blue: #223256;
+  --scr-gold: #95642a;
+  --scr-yellow: #f4ea98;
+  --scr-turquoise: #4481eb;
+}
+
+body { @apply font-sans bg-slate-50; }
